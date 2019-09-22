@@ -26,3 +26,4 @@ def printer (attendees)
   list.each do |item|
     puts item
 end
+end
